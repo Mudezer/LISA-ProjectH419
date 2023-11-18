@@ -1,0 +1,2 @@
+This part of the project is based on the kaggle competition: https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data
+

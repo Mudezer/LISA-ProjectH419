@@ -1,0 +1,13 @@
+torch
+torchaudio
+torchvision
+soundfile
+IPython
+
+
+numpy
+scipy
+matplotlib
+notebook
+
+sox
